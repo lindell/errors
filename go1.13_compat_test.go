@@ -6,7 +6,7 @@ import (
 	stdlib_errors "errors"
 	"testing"
 
-	"github.com/pkg/errors"
+	"github.com/lindell/errors"
 )
 
 func TestErrorChainCompat(t *testing.T) {
